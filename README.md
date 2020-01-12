@@ -1,3 +1,15 @@
+# Introduction
+In this project, I extract data on curling games from shot-by-shot summary
+documents that have been made public.  Currently I have done a preliminary
+exploration of this data, and taking a look at the stereotype that men prefer
+to play a game with more "hit-type" shots than women do.  This only scratches
+the surface of what can be done with this dataset, so stay tuned for future
+analyses.
+
+A complete write-up of this project is located at:
+https://jordanmyslik.com/portfolio/curling-analytics
+
+
 # Repository Contents
 This repository contains the following scripts for creating, populating, and
 interacting with the curling_data.db SQLite database:
